@@ -6,8 +6,8 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on Customer Analytics
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on Data Scientist
+- 🌱 I’m currently learning LLMs and Agents and so....
 - 👯 I’m looking to collaborate on any thing related to machine and deep learning
 - 🤔 I’m looking for help with to learn DSA 
 - 💬 Ask me about tech, movies, cricket

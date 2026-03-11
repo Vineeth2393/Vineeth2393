@@ -6,7 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on Data Scientist
+- 🔭 I’m currently working as Data Scientist@Titan
 - 🌱 I’m currently learning LLMs and Agents and so....
 - 👯 I’m looking to collaborate on any thing related to machine and deep learning
 - 🤔 I’m looking for help with to learn DSA 
